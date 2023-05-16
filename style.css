@@ -1,0 +1,70 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+/* Container style */
+
+.container {
+    margin: 120px auto;
+    outline: 1px solid;
+    width: 500px;
+}
+
+
+.container div {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 15px;
+    padding: 10px 8px;
+}
+
+
+
+/* Input text style */
+
+
+input[type=number] {
+    font-size: 25px;
+    padding: 10px 5px;
+    outline: none;
+    width: 60%;
+}
+
+
+/* Label style */
+
+
+label {
+    font-size: 25px;
+}
+
+
+/* Button Style*/
+
+
+button {
+    width: 100%;
+    padding: 10px 0;
+    font-size: 25px;
+}
+
+
+/* Paragraph style*/
+
+
+p {
+    font-size: 25px;
+    text-align: center;
+    padding: 10px 0;
+}
+
+
+/* Header style*/
+
+
+h1 {
+    text-align: center;
+    font-size: 39px;
+}
